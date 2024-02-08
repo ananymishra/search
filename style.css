@@ -1,0 +1,23 @@
+div{
+    width:50%;
+    margin:auto;
+    padding: 100px;
+    align-items: center;
+}
+.center{
+    margin-bottom: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.inputbox{
+    width:65%;
+    height: 30px;
+    font-size: 22pt;
+}
+.logo{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

@@ -5,13 +5,20 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<ul>
+    <li><a href="">Image Search</a></li>
+    <li style="float:right"><a href="">Advanced Search</a></li>
+</ul>
 <form action="https://www.google.com/search">
-    <div>
+    <div id="main">
         <img src="logo.png" class="logo">
         <br>
         <input class="center inputbox" type="text" name="q">
         <br>
-        <input class="center" type="submit" value="Google Search">
+        <div id="button">
+            <input class="center" style="display:inline" type="submit" value="Google Search">
+            <input class="center" style="display:inline" type="submit" value="I'm Feeling Lucky">
+        </div>
     </div>
 </form>
 </body>

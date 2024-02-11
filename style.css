@@ -14,11 +14,11 @@ div#main{
     display: block;
 }
 .inputbox{
-    border-width: 2px;
-    border-radius:15px;
+    border-width: 1px;
+    border-radius:12px;
     width:65%;
-    height: 40px;
-    font-size: 22pt;
+    height: 30px;
+    font-size: 20px;
 }
 .logo{
     width: 50%;
